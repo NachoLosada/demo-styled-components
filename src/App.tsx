@@ -16,7 +16,7 @@ const App = (): JSX.Element => {
         <div className="main-content__text-container">
           <p className="main-content__text">
             Ay qué rica la paella que aparece en la pantalla. ¿A quién no le va
-            a gustar una paella valenciana del siglo XX?¿A quién no le va a
+            a gustar una paella valenciana del siglo XXI?¿A quién no le va a
             gustar?
           </p>
           <p className="main-content__text main-content__text--highlighted">
